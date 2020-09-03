@@ -6,7 +6,10 @@ NCP 콘솔에서 업로드할 경우, 한번에 올라가는데 파일 갯수 �
 
 ## 사용법
 1. config.json에 정보 입력
-2. public 폴더에 올릴 파일들 카피
+2. public 폴더 생성 후 올릴 파일들 카피
+```
+mkdir public
+```
 3. 실행
 ```
 npm run start
