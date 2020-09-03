@@ -1,0 +1,14 @@
+{
+  "name": "ncp_objectstorage_manager",
+  "version": "1.0.0",
+  "description": "This is a file uploader to naver cloud platform's object storage",
+  "main": "run.js",
+  "scripts": {
+    "start": "node ./run.js"
+  },
+  "author": "tnn.lokijw@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.702.0"
+  }
+}

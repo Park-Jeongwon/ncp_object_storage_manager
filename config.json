@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://kr.object.ncloudstorage.com",
+  "region": "kr-standard",
+  "access_key": "your_access_key",
+  "secret_key": "your_secret_key",
+  "bucket": "your_bucket_name",
+  "sub_directory_in_bucket": "if you want to use this, you must put a slash(/) at the end of your directory's name",
+  "public_read": true
+}
